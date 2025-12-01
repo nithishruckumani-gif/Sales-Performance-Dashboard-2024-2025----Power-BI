@@ -33,6 +33,9 @@ This project helped me strengthen my skills in data analysis, visualization, KPI
 
 
 NITHISH R
+
 ASPIRING DATA ANALYST
+
 LINKEDIN: www.linkedin.com/in/nithish-r-59603a297
+
 EMAIL: nithishruckumani@gmail.com
