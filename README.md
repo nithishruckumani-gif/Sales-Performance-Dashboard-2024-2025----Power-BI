@@ -33,7 +33,9 @@ What this dashboard reveals:
 
 
 
-## Created By
+
 Nithish R
-Data Analyst(Fresher)
+Aspiring Data Analyst
+Linkedin: www.linkedin.com/in/nithish-r-59603a297
+Email: nithishruckumani@gmail.com
 
